@@ -1,3 +1,21 @@
+# AR Smart Kictchen
+
+
+Here is the repo that contains our code for the AR SmartKictchen system
+
+Repo and link to mobile app repo will be soon!
+
+We propose a novel multi-modal AR system that combines both mobile and pro-cam display technologies. By combining mobile and pro-cam systems will not only remove each display’s limitations, but complement each other’s usability strengths to provide longer, higher-fidelity AR usage. We apply this contribution in the form of a smart kitchen application, that allows users to be provided instant cooking recommendations and intuitive instructions to prepare dishes. We evaluate our system on several participants, and discuss the potential this system brings for widespread adoption of AR.
+
+To view code of interface go to the apps/blocks/ directory to view implementation of paper tracking and interface.
+
+This is an extension of the papart-examples library.
+
+View this google doc link for additional setup details: https://docs.google.com/a/cornell.edu/document/d/1HuVHpPZ54eJkuTXSEuvP3Q16-amdLvAk9qECohIcMVI/edit?usp=sharing
+
+
+
+
 # Papart library examples
 
 Here are the Papart examples, to show atomic features.
